@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author
- */
+ * @author Andrew kamal
+ */ 
+ // comoares students answer to the correct answer and gives a toatal score 
 public class Main {
 
   /**
